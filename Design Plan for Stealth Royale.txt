@@ -1,0 +1,13 @@
+Game Idea: Stealth Royale
+
+Tasks to Complete: 
+	1. Make the buttons work => Code
+	2. Create 5 buttons: Solo, duo, squad, play button, and battle pass icon/button => GFX
+	3. Make new skins for game => GFX
+	4. Develop the map for Stealth Royale => GFX
+	5. Make the player stick to the center of the map and have the camera move but the player stays fixed to the middle of the screen => code
+
+Main Priorities:
+	1. Make the game buttons work as to switch between the homescreen tabs
+	2. Find a way to make the shooting feature work
+	3. 
